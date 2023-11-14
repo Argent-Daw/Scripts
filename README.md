@@ -5,6 +5,6 @@ This repo contains all scripts used in this project. The course provided a ton o
 
 # Resources
 
-[Computeer Setup Instructions](https://codefellows.github.io/setup-guide/ops-setup/1-update.html)
-[Bash Tutorials](https://www.youtube.com/watch?v=boqC9QenshY&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=3&ab_channel=LearnLinuxTV)
-[Ubuntu Scripts](https://www.hostinger.com/tutorials/bash-script-example)
+* [Computeer Setup Instructions](https://codefellows.github.io/setup-guide/ops-setup/1-update.html)
+* [Bash Tutorials](https://www.youtube.com/watch?v=boqC9QenshY&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=3&ab_channel=LearnLinuxTV)
+* [Ubuntu Scripts](https://www.hostinger.com/tutorials/bash-script-example)
